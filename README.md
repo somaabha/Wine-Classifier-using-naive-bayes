@@ -1,0 +1,1 @@
+The "Wine Classification with Naive Bayes" project aims to develop a machine learning model that can classify different types of wines based on their chemical attributes. The project utilizes the Naive Bayes classifier, a popular algorithm known for its simplicity and effectiveness in classification tasks.
